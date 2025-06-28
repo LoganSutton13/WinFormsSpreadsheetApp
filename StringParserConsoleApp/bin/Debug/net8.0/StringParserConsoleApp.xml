@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringParserConsoleApp</name>
+    </assembly>
+    <members>
+        <member name="T:StringParserConsoleApp.ParserAppWrapper">
+            <summary>
+            Wrapper app for console demo.
+            </summary>
+        </member>
+        <member name="F:StringParserConsoleApp.ParserAppWrapper.expressionTree">
+            <summary>
+            Expression tree private field.
+            </summary>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:StringParserConsoleApp.ParserAppWrapper"/> class.
+            </summary>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.RunApp">
+            <summary>
+            Runs the simple console app.
+            </summary>
+            <returns>0 when done.</returns>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.PrintMenu">
+            <summary>
+            Prints the menu to the console.
+            </summary>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.EvaluateChoice(System.Int32)">
+            <summary>
+            Evaluates the users choice.
+            </summary>
+            <param name="choice">The users menu choice.</param>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.PromptNewExpression">
+            <summary>
+            Prompts for a new expression and sets the expression.
+            </summary>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.SetVariableValue">
+            <summary>
+            Allows the user to set a variable value.
+            </summary>
+        </member>
+        <member name="M:StringParserConsoleApp.ParserAppWrapper.EvaluateExpression">
+            <summary>
+            Evaluates the expression.
+            </summary>
+        </member>
+    </members>
+</doc>

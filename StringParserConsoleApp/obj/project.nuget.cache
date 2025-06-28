@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3yo7aCMdX6dhvPfy+i3L8lJz76AbPb+2vz9IR17HyvZXK3Twy5Pa7KfFA2OG/U0wBGBF856ah8gtA08hhrEMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fastw\\source\\repos\\cpts321-logan_sutton-hws\\HWs-Solution\\StringParserConsoleApp\\StringParserConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fastw\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
