@@ -1,4 +1,2 @@
 # CptS321-Logan_Sutton-HWs
-
-Logan Sutton\
-ID: 11798384
+Transfered from GitLab, conversion may not be 100% accurate
